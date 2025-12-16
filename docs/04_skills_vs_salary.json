@@ -1,0 +1,706 @@
+[
+  {
+    "skills": "yarn",
+    "avg_salary": "340000.000000000000"
+  },
+  {
+    "skills": "dplyr",
+    "avg_salary": "196250.000000000000"
+  },
+  {
+    "skills": "fastapi",
+    "avg_salary": "185000.000000000000"
+  },
+  {
+    "skills": "golang",
+    "avg_salary": "161750.000000000000"
+  },
+  {
+    "skills": "couchbase",
+    "avg_salary": "160515.000000000000"
+  },
+  {
+    "skills": "vmware",
+    "avg_salary": "147500.000000000000"
+  },
+  {
+    "skills": "perl",
+    "avg_salary": "141921.214285714286"
+  },
+  {
+    "skills": "dynamodb",
+    "avg_salary": "140000.000000000000"
+  },
+  {
+    "skills": "twilio",
+    "avg_salary": "134000.000000000000"
+  },
+  {
+    "skills": "datarobot",
+    "avg_salary": "128992.750000000000"
+  },
+  {
+    "skills": "bitbucket",
+    "avg_salary": "128599.600000000000"
+  },
+  {
+    "skills": "keras",
+    "avg_salary": "127833.333333333333"
+  },
+  {
+    "skills": "gitlab",
+    "avg_salary": "127033.777777777778"
+  },
+  {
+    "skills": "watson",
+    "avg_salary": "121838.333333333333"
+  },
+  {
+    "skills": "kafka",
+    "avg_salary": "118031.064516129032"
+  },
+  {
+    "skills": "airflow",
+    "avg_salary": "117303.487951807229"
+  },
+  {
+    "skills": "angular",
+    "avg_salary": "117212.615384615385"
+  },
+  {
+    "skills": "notion",
+    "avg_salary": "116710.000000000000"
+  },
+  {
+    "skills": "swift",
+    "avg_salary": "116625.000000000000"
+  },
+  {
+    "skills": "php",
+    "avg_salary": "116507.335882352941"
+  },
+  {
+    "skills": "confluence",
+    "avg_salary": "114840.235294117647"
+  },
+  {
+    "skills": "scala",
+    "avg_salary": "114780.127600000000"
+  },
+  {
+    "skills": "rust",
+    "avg_salary": "113794.915000000000"
+  },
+  {
+    "skills": "node",
+    "avg_salary": "113125.000000000000"
+  },
+  {
+    "skills": "pytorch",
+    "avg_salary": "112531.350000000000"
+  },
+  {
+    "skills": "jupyter",
+    "avg_salary": "112452.091836734694"
+  },
+  {
+    "skills": "cassandra",
+    "avg_salary": "111887.615384615385"
+  },
+  {
+    "skills": "shell",
+    "avg_salary": "111497.348888888889"
+  },
+  {
+    "skills": "electron",
+    "avg_salary": "111175.000000000000"
+  },
+  {
+    "skills": "hadoop",
+    "avg_salary": "111030.239763779528"
+  },
+  {
+    "skills": "plotly",
+    "avg_salary": "110640.229166666667"
+  },
+  {
+    "skills": "seaborn",
+    "avg_salary": "110158.541666666667"
+  },
+  {
+    "skills": "express",
+    "avg_salary": "109935.540000000000"
+  },
+  {
+    "skills": "spark",
+    "avg_salary": "109652.478482758621"
+  },
+  {
+    "skills": "tensorflow",
+    "avg_salary": "109611.305555555556"
+  },
+  {
+    "skills": "matplotlib",
+    "avg_salary": "109544.086206896552"
+  },
+  {
+    "skills": "snowflake",
+    "avg_salary": "108960.019684210526"
+  },
+  {
+    "skills": "pyspark",
+    "avg_salary": "108909.071428571429"
+  },
+  {
+    "skills": "atlassian",
+    "avg_salary": "108844.923076923077"
+  },
+  {
+    "skills": "jira",
+    "avg_salary": "108794.608830409357"
+  },
+  {
+    "skills": "looker",
+    "avg_salary": "108663.771807580175"
+  },
+  {
+    "skills": "pandas",
+    "avg_salary": "108630.379111111111"
+  },
+  {
+    "skills": "unix",
+    "avg_salary": "108430.056285714286"
+  },
+  {
+    "skills": "asp.net",
+    "avg_salary": "108333.333333333333"
+  },
+  {
+    "skills": "zoom",
+    "avg_salary": "108164.480000000000"
+  },
+  {
+    "skills": "databricks",
+    "avg_salary": "108135.473684210526"
+  },
+  {
+    "skills": "git",
+    "avg_salary": "107900.093478260870"
+  },
+  {
+    "skills": "splunk",
+    "avg_salary": "107676.000000000000"
+  },
+  {
+    "skills": "redshift",
+    "avg_salary": "107306.364245283019"
+  },
+  {
+    "skills": "alteryx",
+    "avg_salary": "107296.853928571429"
+  },
+  {
+    "skills": "no-sql",
+    "avg_salary": "106950.000000000000"
+  },
+  {
+    "skills": "unity",
+    "avg_salary": "106892.857142857143"
+  },
+  {
+    "skills": "firebase",
+    "avg_salary": "106438.333333333333"
+  },
+  {
+    "skills": "nosql",
+    "avg_salary": "105763.192261904762"
+  },
+  {
+    "skills": "node.js",
+    "avg_salary": "105640.000000000000"
+  },
+  {
+    "skills": "mongodb",
+    "avg_salary": "104649.937200000000"
+  },
+  {
+    "skills": "db2",
+    "avg_salary": "104466.985833333333"
+  },
+  {
+    "skills": "java",
+    "avg_salary": "104460.728536585366"
+  },
+  {
+    "skills": "kubernetes",
+    "avg_salary": "104362.236956521739"
+  },
+  {
+    "skills": "phoenix",
+    "avg_salary": "104321.638888888889"
+  },
+  {
+    "skills": "bigquery",
+    "avg_salary": "104203.706730769231"
+  },
+  {
+    "skills": "unify",
+    "avg_salary": "104110.714285714286"
+  },
+  {
+    "skills": "aws",
+    "avg_salary": "104051.567263157895"
+  },
+  {
+    "skills": "scikit-learn",
+    "avg_salary": "103914.440000000000"
+  },
+  {
+    "skills": "ibm cloud",
+    "avg_salary": "103666.666666666667"
+  },
+  {
+    "skills": "linux",
+    "avg_salary": "103611.259318181818"
+  },
+  {
+    "skills": "c++",
+    "avg_salary": "103588.212121212121"
+  },
+  {
+    "skills": "python",
+    "avg_salary": "103324.435157135497"
+  },
+  {
+    "skills": "numpy",
+    "avg_salary": "103166.400000000000"
+  },
+  {
+    "skills": "c",
+    "avg_salary": "102973.347788461538"
+  },
+  {
+    "skills": "powershell",
+    "avg_salary": "102763.831666666667"
+  },
+  {
+    "skills": "jquery",
+    "avg_salary": "102500.000000000000"
+  },
+  {
+    "skills": "sqlite",
+    "avg_salary": "102280.000000000000"
+  },
+  {
+    "skills": "spring",
+    "avg_salary": "102180.000000000000"
+  },
+  {
+    "skills": "bash",
+    "avg_salary": "102043.318888888889"
+  },
+  {
+    "skills": "github",
+    "avg_salary": "101975.214285714286"
+  },
+  {
+    "skills": "elasticsearch",
+    "avg_salary": "101912.714285714286"
+  },
+  {
+    "skills": "qlik",
+    "avg_salary": "101815.018595041322"
+  },
+  {
+    "skills": "react",
+    "avg_salary": "101565.625000000000"
+  },
+  {
+    "skills": "microstrategy",
+    "avg_salary": "101428.333333333333"
+  },
+  {
+    "skills": "azure",
+    "avg_salary": "101322.809602888087"
+  },
+  {
+    "skills": "dax",
+    "avg_salary": "101118.814736842105"
+  },
+  {
+    "skills": "visio",
+    "avg_salary": "101035.687000000000"
+  },
+  {
+    "skills": "r",
+    "avg_salary": "100958.445863557858"
+  },
+  {
+    "skills": "tableau",
+    "avg_salary": "100668.540276155072"
+  },
+  {
+    "skills": "matlab",
+    "avg_salary": "100167.490909090909"
+  },
+  {
+    "skills": "oracle",
+    "avg_salary": "100163.521329113924"
+  },
+  {
+    "skills": "puppet",
+    "avg_salary": "100000.000000000000"
+  },
+  {
+    "skills": "mxnet",
+    "avg_salary": "100000.000000000000"
+  },
+  {
+    "skills": "chainer",
+    "avg_salary": "100000.000000000000"
+  },
+  {
+    "skills": "theano",
+    "avg_salary": "100000.000000000000"
+  },
+  {
+    "skills": "gcp",
+    "avg_salary": "99906.772280701754"
+  },
+  {
+    "skills": "neo4j",
+    "avg_salary": "99796.875000000000"
+  },
+  {
+    "skills": "jenkins",
+    "avg_salary": "99523.769230769231"
+  },
+  {
+    "skills": "redis",
+    "avg_salary": "99435.000000000000"
+  },
+  {
+    "skills": "flow",
+    "avg_salary": "99145.512145593870"
+  },
+  {
+    "skills": "ansible",
+    "avg_salary": "99000.000000000000"
+  },
+  {
+    "skills": "vue.js",
+    "avg_salary": "99000.000000000000"
+  },
+  {
+    "skills": "c#",
+    "avg_salary": "98987.072857142857"
+  },
+  {
+    "skills": "sql",
+    "avg_salary": "98889.763506571087"
+  },
+  {
+    "skills": "postgresql",
+    "avg_salary": "98814.947368421053"
+  },
+  {
+    "skills": "go",
+    "avg_salary": "98718.796996466431"
+  },
+  {
+    "skills": "cordova",
+    "avg_salary": "98000.000000000000"
+  },
+  {
+    "skills": "ssis",
+    "avg_salary": "97240.089537037037"
+  },
+  {
+    "skills": "flask",
+    "avg_salary": "96999.666666666667"
+  },
+  {
+    "skills": "ggplot2",
+    "avg_salary": "96392.600000000000"
+  },
+  {
+    "skills": "vba",
+    "avg_salary": "96365.627927461140"
+  },
+  {
+    "skills": "mariadb",
+    "avg_salary": "96000.000000000000"
+  },
+  {
+    "skills": "mysql",
+    "avg_salary": "95467.679230769231"
+  },
+  {
+    "skills": "t-sql",
+    "avg_salary": "95247.559838709677"
+  },
+  {
+    "skills": "sas",
+    "avg_salary": "94950.178945312500"
+  },
+  {
+    "skills": "sql server",
+    "avg_salary": "94272.125087209302"
+  },
+  {
+    "skills": "sap",
+    "avg_salary": "94198.930679012346"
+  },
+  {
+    "skills": "power bi",
+    "avg_salary": "93611.787969723954"
+  },
+  {
+    "skills": "terraform",
+    "avg_salary": "93393.220000000000"
+  },
+  {
+    "skills": "gdpr",
+    "avg_salary": "92981.250000000000"
+  },
+  {
+    "skills": "chef",
+    "avg_salary": "92750.000000000000"
+  },
+  {
+    "skills": "ms access",
+    "avg_salary": "92545.065606060606"
+  },
+  {
+    "skills": "javascript",
+    "avg_salary": "92462.780833333333"
+  },
+  {
+    "skills": "cognos",
+    "avg_salary": "92445.729000000000"
+  },
+  {
+    "skills": "ssrs",
+    "avg_salary": "92162.474604316547"
+  },
+  {
+    "skills": "wire",
+    "avg_salary": "92058.498000000000"
+  },
+  {
+    "skills": "docker",
+    "avg_salary": "91287.622500000000"
+  },
+  {
+    "skills": "microsoft teams",
+    "avg_salary": "91231.863636363636"
+  },
+  {
+    "skills": "sharepoint",
+    "avg_salary": "91159.635294117647"
+  },
+  {
+    "skills": "assembly",
+    "avg_salary": "90927.631578947368"
+  },
+  {
+    "skills": "mongo",
+    "avg_salary": "90519.502857142857"
+  },
+  {
+    "skills": "slack",
+    "avg_salary": "90224.135000000000"
+  },
+  {
+    "skills": "spss",
+    "avg_salary": "90219.977556561086"
+  },
+  {
+    "skills": "visual basic",
+    "avg_salary": "90138.863636363636"
+  },
+  {
+    "skills": "clickup",
+    "avg_salary": "90000.000000000000"
+  },
+  {
+    "skills": "powerpoint",
+    "avg_salary": "89944.159034205231"
+  },
+  {
+    "skills": "npm",
+    "avg_salary": "89600.000000000000"
+  },
+  {
+    "skills": "excel",
+    "avg_salary": "88865.494403712297"
+  },
+  {
+    "skills": "webex",
+    "avg_salary": "88750.000000000000"
+  },
+  {
+    "skills": "css",
+    "avg_salary": "88660.838709677419"
+  },
+  {
+    "skills": "aurora",
+    "avg_salary": "88450.000000000000"
+  },
+  {
+    "skills": "html",
+    "avg_salary": "88369.056981132075"
+  },
+  {
+    "skills": "drupal",
+    "avg_salary": "88328.200000000000"
+  },
+  {
+    "skills": "sheets",
+    "avg_salary": "87546.950310559006"
+  },
+  {
+    "skills": "crystal",
+    "avg_salary": "87310.161142857143"
+  },
+  {
+    "skills": "windows",
+    "avg_salary": "87259.452368421053"
+  },
+  {
+    "skills": "arch",
+    "avg_salary": "86835.000000000000"
+  },
+  {
+    "skills": "airtable",
+    "avg_salary": "86672.916666666667"
+  },
+  {
+    "skills": "symphony",
+    "avg_salary": "86566.666666666667"
+  },
+  {
+    "skills": "workfront",
+    "avg_salary": "86493.351666666667"
+  },
+  {
+    "skills": "terminal",
+    "avg_salary": "85658.138888888889"
+  },
+  {
+    "skills": "word",
+    "avg_salary": "84127.115793814433"
+  },
+  {
+    "skills": "unreal",
+    "avg_salary": "83600.000000000000"
+  },
+  {
+    "skills": "django",
+    "avg_salary": "83252.430000000000"
+  },
+  {
+    "skills": "planner",
+    "avg_salary": "83095.855000000000"
+  },
+  {
+    "skills": "selenium",
+    "avg_salary": "82500.000000000000"
+  },
+  {
+    "skills": "fortran",
+    "avg_salary": "82500.000000000000"
+  },
+  {
+    "skills": "ruby",
+    "avg_salary": "82480.083333333333"
+  },
+  {
+    "skills": "spreadsheet",
+    "avg_salary": "82308.504408602151"
+  },
+  {
+    "skills": "monday.com",
+    "avg_salary": "81875.000000000000"
+  },
+  {
+    "skills": "outlook",
+    "avg_salary": "81291.667530864198"
+  },
+  {
+    "skills": "graphql",
+    "avg_salary": "80744.500000000000"
+  },
+  {
+    "skills": "asana",
+    "avg_salary": "77461.416666666667"
+  },
+  {
+    "skills": "julia",
+    "avg_salary": "76164.166666666667"
+  },
+  {
+    "skills": "wrike",
+    "avg_salary": "75000.000000000000"
+  },
+  {
+    "skills": "typescript",
+    "avg_salary": "74762.500000000000"
+  },
+  {
+    "skills": "tidyverse",
+    "avg_salary": "72916.583333333333"
+  },
+  {
+    "skills": "erlang",
+    "avg_salary": "72500.000000000000"
+  },
+  {
+    "skills": "cobol",
+    "avg_salary": "71250.000000000000"
+  },
+  {
+    "skills": "vb.net",
+    "avg_salary": "69600.000000000000"
+  },
+  {
+    "skills": "macos",
+    "avg_salary": "68581.548000000000"
+  },
+  {
+    "skills": "opencv",
+    "avg_salary": "67818.000000000000"
+  },
+  {
+    "skills": "sass",
+    "avg_salary": "67698.500000000000"
+  },
+  {
+    "skills": "smartsheet",
+    "avg_salary": "67578.913043478261"
+  },
+  {
+    "skills": "colocation",
+    "avg_salary": "67500.000000000000"
+  },
+  {
+    "skills": "dart",
+    "avg_salary": "66444.500000000000"
+  },
+  {
+    "skills": "trello",
+    "avg_salary": "65193.455714285714"
+  },
+  {
+    "skills": "vue",
+    "avg_salary": "65000.000000000000"
+  },
+  {
+    "skills": "laravel",
+    "avg_salary": "60000.000000000000"
+  },
+  {
+    "skills": "ruby on rails",
+    "avg_salary": "58529.500000000000"
+  }
+]

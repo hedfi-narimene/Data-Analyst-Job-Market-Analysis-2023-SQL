@@ -1,0 +1,42 @@
+[
+  {
+    "skills": "bitbucket",
+    "avg_salary": "189154.500000000000"
+  },
+  {
+    "skills": "angular",
+    "avg_salary": "185000.000000000000"
+  },
+  {
+    "skills": "fastapi",
+    "avg_salary": "185000.000000000000"
+  },
+  {
+    "skills": "keras",
+    "avg_salary": "185000.000000000000"
+  },
+  {
+    "skills": "css",
+    "avg_salary": "185000.000000000000"
+  },
+  {
+    "skills": "golang",
+    "avg_salary": "161750.000000000000"
+  },
+  {
+    "skills": "watson",
+    "avg_salary": "160515.000000000000"
+  },
+  {
+    "skills": "couchbase",
+    "avg_salary": "160515.000000000000"
+  },
+  {
+    "skills": "cassandra",
+    "avg_salary": "160000.000000000000"
+  },
+  {
+    "skills": "gitlab",
+    "avg_salary": "154500.000000000000"
+  }
+]
